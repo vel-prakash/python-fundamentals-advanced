@@ -8,4 +8,4 @@ radius = float(input("Enter the radius of a circle: "))
 circumference = 2 * math.pi * radius
 
 # -------- Output --------
-print(f"The circumfernce of the circle is: {round(circumference, 2)} cm")
+print(f"The circumfernce is: {round(circumference, 2)} cm")
