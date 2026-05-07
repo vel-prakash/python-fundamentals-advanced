@@ -1,16 +1,55 @@
-# Python Fundamentals v2
+# 🚀 Python Fundamentals v2
 
-This repository contains my journey of learning Python, covering basic concepts and mini projects.
+A structured Python learning repository containing basic concepts, exercises, and mini projects built while learning Python fundamentals.
 
-## 📂 Basics
+---
+
+## 📚 Basics
+
+This section contains beginner-friendly Python concept examples and syntax practice.
+
 - Variables
-- Type Casting
 - User Input
+- Type Casting
+- Arithmetic Operations
+- Built-in Functions
+- Math Module
+- If Statements
 
-## 📂 Mini Projects
-- Mad Libs Generator
-- Rectangle Area Calculator
-- Shopping Cart Program
+---
+
+## 🛠️ Mini Projects
+
+Small Python projects created to apply concepts in real-world scenarios.
+
+- 🎭 Mad Libs Generator
+- 📐 Rectangle Area Calculator
+- 🛒 Shopping Cart Program
+- ⭕ Circle Area Calculator
+- 📏 Circle Circumference Calculator
+- 📐 Pythagoras Calculator
+- 🧮 Basic Calculator
+- ⚖️ Weight Converter
+- 🌡️ Temperature Converter
+
+---
 
 ## 🎯 Goal
-To build strong Python fundamentals and improve problem-solving skills.
+
+The goal of this repository is to:
+
+- Build strong Python fundamentals
+- Practice problem-solving skills
+- Learn clean and organized coding practices
+- Track my programming journey consistently
+
+---
+
+## 📁 Project Structure
+
+```bash
+PYTHON_FUNDAMENTALS_V2/
+│
+├── basics/
+├── mini_projects/
+└── README.md
