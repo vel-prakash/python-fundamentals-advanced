@@ -1,90 +1,106 @@
-# 🐍 Python Fundamentals v2
+# 🚀 Python Fundamentals v2
 
-A structured repository documenting my Python learning journey, covering core programming concepts, problem-solving exercises, and beginner mini projects.
+A structured repository documenting my Python learning journey — covering core programming concepts, problem-solving exercises, and beginner mini projects.  
+
+I’ve been focusing not only on learning Python fundamentals, but also on writing cleaner, more organized, and more professional code along the way 👨‍💻
 
 ---
 
 # 📚 Topics Covered
 
-## 🔹 Python Basics
 - Variables
 - User Input
 - Type Casting
 - Arithmetic Operations
 - Built-in Functions
-- Math Module
+- String Methods
+- String Indexing
 - If Statements
 - Logical Operators
 - Conditional Expressions
-- String Methods
-- String Indexing & Slicing
-- Format Specifiers
 - While Loops
 - For Loops
+- Nested Loops
+- Format Specifiers
+- Lists, Sets, and Tuples
+- Dictionaries
+- Random Numbers
+- Two-Dimensional Collections
 
 ---
 
-# 🚀 Mini Projects
-- Calculator
-- Shopping Cart Program
-- Rectangle Area Calculator
-- Circle Area Calculator
-- Circle Circumference Calculator
-- Weight Converter
-- Temperature Converter
-- Pythagoras Calculator
-- Compound Interest Calculator
-- Countdown Timer
-- Mad Libs Generator
+# 🛠️ Mini Projects
+
+- 🧮 Calculator
+- 🛒 Shopping Cart Program
+- 🧺 Shopping Cart Collections Program
+- ⏳ Countdown Timer
+- 📈 Compound Interest Calculator
+- 🎯 Number Guessing Game
+- ✊ Rock Paper Scissors Game
+- 🍿 Concession Stand Program
+- ❓ Quiz Game
+- 🌡️ Temperature Converter
+- ⚖️ Weight Converter
+- 📐 Pythagoras Calculator
+- 🎭 Mad Libs Generator
+- ⭕ Circle Area Calculator
+- ⭕ Circle Circumference Calculator
+- ▭ Rectangle Area Calculator
 
 ---
 
-# 📂 Project Structure
+# 🎯 Goals of This Repository
 
-```bash
+- Practice Python fundamentals consistently
+- Build small projects to apply concepts
+- Improve problem-solving skills
+- Write cleaner and more readable code
+- Learn proper Git & GitHub workflow
+- Track my programming progress over time
+
+---
+
+# 📁 Project Structure
+
+```text
 PYTHON_FUNDAMENTALS_V2/
 │
 ├── basics/
-│   ├── arithmetic_operations.py
-│   ├── built_in_functions.py
-│   ├── conditional_expressions.py
-│   ├── for_loops.py
-│   ├── format_specifiers.py
-│   ├── if_statements.py
-│   ├── logical_operators.py
-│   ├── math_module.py
-│   ├── string_indexing.py
-│   ├── string_methods.py
-│   ├── type_casting.py
-│   ├── user_input.py
 │   ├── variables.py
-│   └── while_loops.py
+│   ├── if_statements.py
+│   ├── dictionaries.py
+│   └── more Python fundamentals...
 │
 ├── mini_projects/
 │   ├── calculator.py
-│   ├── circle_area.py
-│   ├── circle_circumference.py
-│   ├── compound_interest_calculator.py
-│   ├── countdown_timer.py
-│   ├── mad_libs.py
-│   ├── pythagoras_calculator.py
-│   ├── rectangle_area.py
-│   ├── shopping_cart.py
-│   ├── temperature_converter.py
-│   └── weight_converter.py
+│   ├── quiz_game.py
+│   ├── rock_paper_scissors.py
+│   └── more mini projects...
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-# 🎯 Goal
+# 🚀 Current Focus
 
-To build a strong foundation in Python programming and improve problem-solving skills through consistent practice and mini projects.
+I’m currently learning:
+- cleaner project organization
+- better code readability
+- consistent naming conventions
+- professional GitHub practices
+- writing maintainable Python code
 
 ---
 
-# 🛠️ Technologies Used
-- Python 3
-- VS Code
-- Git & GitHub
+# 🔗 GitHub Repository
+
+https://github.com/vel-prakash/python-fundamentals-advanced
+
+---
+
+# ⭐ Note
+
+This repository is part of my learning journey, so I’ll continue updating it as I learn more Python concepts and build new projects 🚀
